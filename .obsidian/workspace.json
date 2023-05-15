@@ -20,7 +20,7 @@
             }
           },
           {
-            "id": "c0bd073ad9d49442",
+            "id": "9b53035dbd0f540f",
             "type": "leaf",
             "state": {
               "type": "markdown",
@@ -159,11 +159,12 @@
       "command-palette:Open command palette": false
     }
   },
-  "active": "c0bd073ad9d49442",
+  "active": "9b53035dbd0f540f",
   "lastOpenFiles": [
-    "surrealdb/making-identity-verification-easier.md",
-    "Testing obsidian.md",
     "2023-05-15.md",
-    "Untitled.canvas"
+    "Testing obsidian.md",
+    "Untitled.canvas",
+    "Testing obsidian.md",
+    "surrealdb/making-identity-verification-easier.md"
   ]
 }
